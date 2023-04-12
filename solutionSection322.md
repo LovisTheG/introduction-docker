@@ -44,3 +44,4 @@ docker exec -it <nom-du-conteneur> /bin/bash
 
 
 
+L'equipe 20 a réussi le défi ! Arthur Lecomte Baptiste Hay Titouan Bertaux Evan cnapelnix
